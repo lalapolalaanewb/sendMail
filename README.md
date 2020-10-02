@@ -4,7 +4,7 @@ Implementation of sending notification email with [Nodemailer](https://nodemaile
 
 # Video Tutorial
 
-[Sending Mail Notification from Node JS - Any mail extension (.com/ .net/ .io/ etc)](#)
+[Sending Mail Notification from Node JS - Any mail extension (.com/ .net/ .io/ etc)](https://youtu.be/oFwMlIMmqQY)
 
 ## Getting Started
 
