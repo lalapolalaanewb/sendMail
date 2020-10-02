@@ -62,8 +62,8 @@ C:\sendMail\final\>npm start
 ## Step By Step Guides
 
 - [ ] create a starter folder
-- [ ] npm init
-- [ ] instal dependencies
+- [ ] npm `init`
+- [ ] install dependencies
   - [ ] nodemon
   - [ ] express
   - [ ] dotenv
