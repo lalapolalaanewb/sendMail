@@ -63,6 +63,11 @@ C:\sendMail\final\>npm start
 
 - [ ] create a starter folder
 - [ ] npm init
+- [ ] instal dependencies
+  - [ ] nodemon
+  - [ ] express
+  - [ ] dotenv
+  - [ ] nodemailer
 - [ ] create & setup `index.js`
 - [ ] create & setup home routes
   - [ ] create & setup GET home route
