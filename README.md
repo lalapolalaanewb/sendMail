@@ -70,10 +70,10 @@ C:\sendMail\final\>npm start
   - [ ] nodemailer
 - [ ] create & setup `index.js`
 - [ ] create & setup home routes
-  - [ ] create & setup GET home route
+  - [ ] create & setup `GET` home route
     - [ ] create a function to handle render of HOME page
     - [ ] render HOME page
-  - [ ] create & setup POST home route
+  - [ ] create & setup `POST` home route
     - [ ] setup errorMessage handler
     - [ ] create & setup send notification email
       - [ ] setup Gmail API at [Google Console API](https://console.developers.google.com/)
