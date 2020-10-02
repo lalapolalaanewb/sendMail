@@ -2,9 +2,10 @@
 
 Implementation of sending notification email with [Nodemailer](https://nodemailer.com/about/).
 
-# Video Tutorial
+# Tutorial
 
-[Sending Mail Notification from Node JS - Any mail extension (.com/ .net/ .io/ etc)](https://youtu.be/oFwMlIMmqQY)
+- Written Tutorial. [Blog](https://lalapolalaanewb.com/blog/5f7742de76c7ff4b705bc475)
+- Video Tutorial. [Youtube](https://youtu.be/oFwMlIMmqQY)
 
 ## Getting Started
 
